@@ -12,7 +12,6 @@
     </a>
 </p>
 
-[![This is me] Test Test)
 
 ### 🏆 Profile Trophy
 
