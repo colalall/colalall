@@ -15,9 +15,6 @@
 <p align="center">
   <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg"/>
 </p>	
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=colalall&show_icons=true&theme=graywhite"/>
-</p>
 
 
 ### 🏆 Profile Trophy
