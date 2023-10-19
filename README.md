@@ -13,7 +13,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="github-contribution-grid-snake.svg"/>
 </p>	
 
 
