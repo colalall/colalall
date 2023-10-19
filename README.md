@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Colalall (可乐) 🦊</h3>
 
 <p align="center">
-    <a title="Github Total Stars" target="_blank" href="https://github.com/blinkfox">
+    <a title="Github Total Stars" target="_blank" href="https://github.com/colalall">
         <img src="https://img.shields.io/github/stars/blinkfox.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/blinkfox">
