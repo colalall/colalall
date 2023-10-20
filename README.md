@@ -20,7 +20,7 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=colalall&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="colalall" />
+    <img   align="center" src="https://github-profile-trophy.vercel.app/?username=colalall&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="colalall" />
 </p>
 
 
